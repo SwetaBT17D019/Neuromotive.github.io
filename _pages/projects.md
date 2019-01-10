@@ -7,13 +7,13 @@ fullwidth: true
 redirect_from: 
 ---
 ## Introduction
-In Visual Attention Model, our Neuromotive team is divided into two groups. One is working in attention model and the other one is working in Eye-Tracker.  
+Our team is working on two projects which aim at understanding the human attention for visual object search. 
 ## Attention Model for Object Detection<br>
-* In this work we are focusing to implement the model which will search for the target object in the same manner as human looks at the interested object in the entire image. 
+* In this we are using RL-SOM trained with temporal difference error to develop a attntional search model. The initial training is perfomed on synthetic data, with the broder goal to implement it on road video dataset to trach traffic signs. This project is done in collaboration with Continental Automotive.
 
+## Developing an Human Gaze Tracker<br>
+* We are trying to record the human gaze to understand how eye movements help in searching object. For this purpose, we are developing an human gaze tracker using a webcam. The data collected will be used to train a model which can then search objects like humans do.
 
-## Eye-Tracker <br>
-* By analyzing eye-movement data, for example where people fixate and how long they fixate for, researchers can gain important insights into a number of cognitive operations involved in a wide range of behavior
 
 
 
