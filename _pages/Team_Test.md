@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 ## Team Members
-* [Niraj Kumar Singh](neerajajaysingh17@gmail.com)
+* [Niraj Kumar Singh](https://sites.google.com/view/niraj17singh/home)
 * [Sweta Kumari]
 * [Ojasvita]
 * [Ram Chitalla]
