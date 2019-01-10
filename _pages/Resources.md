@@ -22,6 +22,6 @@ Basics of Neural Network, Convolutional Neural Networks and Reinforcement Learni
 * [Convolutional Assignment](https://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/)<br>
 
 ## Tools 
-* [Tensorflow] (http://web.stanford.edu/class/cs20si/syllabus.html)
+* [Tensorflow](http://web.stanford.edu/class/cs20si/syllabus.html)
 
 
