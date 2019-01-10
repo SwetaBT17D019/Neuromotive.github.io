@@ -8,10 +8,10 @@ redirect_from:
 
 ## Team Members
 * [Niraj Kumar Singh](https://sites.google.com/view/niraj17singh/home)
-* [Sweta Kumari]
-* [Ojasvita]
-* [Ram Chitalla]
-* [Umangi Jain]
-* [Dhruv Chopra]
-* [Nikhil]
-* [Rajat]
+* [Sweta Kumari](https://sites.google.com/view/swetakumari/home) 
+* [Ojasvita](mailto:ojasvitawalgad@gmail.com)
+* [Ram Chitalla](mailto:ram.nvgvpsr@gmail.com)
+* [Umangi Jain](mailto:ee16b124@smail.iitm.ac.in)
+* [Dhruv Chopra](mailto:ee16b107@smail.iitm.ac.in)
+* [Nikhil](mailto:ynikhil358@gmail.com)
+* [Rajat](mailto:g.rajat.97.kumar@gmail.com )
