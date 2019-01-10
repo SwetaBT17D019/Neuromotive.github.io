@@ -6,6 +6,9 @@ author_profile: true
 redirect_from: 
 ---
 
+## Supervisor
+* [Prof. V. Srinivasa Chakravarthy](https://biotech.iitm.ac.in/Faculty/CNS_LAB/VSC.html)
+
 ## Team Members
 * [Niraj Kumar Singh](https://sites.google.com/view/niraj17singh/home)
 * [Sweta Kumari](https://sites.google.com/view/swetakumari/home) 
