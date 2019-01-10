@@ -25,3 +25,19 @@ Basics of Neural Network, Convolutional Neural Networks and Reinforcement Learni
 * [Tensorflow](http://web.stanford.edu/class/cs20si/syllabus.html)
 
 
+Some preliminary reading materials for start working in the team and in generally computational neuroscience:
+
+* Prof. Srinivasa Chakravarthy's NPTEL courses
+** Demystifying The Brain
+** Introduction to Computational Neuroscience
+
+* Prof. Srinivasa Chakravarthy's Books
+** Demystifying The Brain
+** Computational Neuroscience Models of the Basal Ganglia
+* For students of IIT-Madras, take Prof. Srinivasa Chakravarthy's courses
+** Computational Neuroscience (BT6270) - Odd semester
+** Principles of Neuroscience (BT5270) - Even semester
+* Izhikevich neuronal models
+* Basic math videos (3Blue1Brown youtube channel)
+* MATLAB Tutorial
+* Python Tutorial
