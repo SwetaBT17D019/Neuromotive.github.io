@@ -12,6 +12,9 @@ main:
   - title: "Team"
     url: /Team/
     
+  - title: "Team_Test"
+    url: /Team_Test/
+    
   - title: "Collaboration"
     url: /Collaboration/
     
