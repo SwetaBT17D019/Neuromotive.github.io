@@ -14,4 +14,6 @@ redirect_from:
 * [Umangi Jain](mailto:ee16b124@smail.iitm.ac.in)
 * [Dhruv Chopra](mailto:ee16b107@smail.iitm.ac.in)
 * [Nikhil](mailto:ynikhil358@gmail.com)
-* [Rajat](mailto:g.rajat.97.kumar@gmail.com )
+* [Rajat](mailto:g.rajat.97.kumar@gmail.com)
+* [Neeraj Milan](mailto:neerajmilan968@gmail.com)
+* [Kuldeep Gujar](mailto:kuldeepgujar001@gmail.com)
