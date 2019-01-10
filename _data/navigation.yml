@@ -8,11 +8,8 @@ main:
     
   - title: "Resources"
     url: /Resources/
-    
+      
   - title: "Team"
-    url: /Team/
-    
-  - title: "Team_Test"
     url: /Team_Test/
     
   - title: "Collaboration"
