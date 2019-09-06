@@ -37,7 +37,7 @@ Our lab is currently engaged with Continental Automotive aiming at designing bio
 ![test](conti.svg){:.some-css-class style="width: 100px; height: 100px; "}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Continental Automotive](https://www.continental-corporation.com/en), Germany
 <br>
 
-  <Edit required>
+
 
 
 
