@@ -1,5 +1,5 @@
 ---
-permalink: /Team/
+permalink: /IITM/
 title: ""
 excerpt: ""
 author_profile: true
